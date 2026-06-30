@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/brennende-brucken/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Brennende Brücken](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/brennende-brucken/) |
+| **Get License** | [Music Rights & Licensing for Brennende Brücken](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/brennende-brucken/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Brennende Brücken im Rückspiegel, Baby, nur wir zwei
+> Dein Blick zieht mich an, diese Nacht ist noch nicht vorbei
+> Wir fahren durch die City, das Neonlicht so grell
+> Fühl die Spannung in der Luft, mein Puls, er schlägt zu schnell
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
