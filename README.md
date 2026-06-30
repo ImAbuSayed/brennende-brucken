@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/brennende-brucken/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Brennende Brücken](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/brennende-brucken/) |
+| **Get License** | [License this song: Brennende Brücken](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/brennende-brucken/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `083f8797878faa72932c4bd077b89f5ba79489ac865ca1cc1e4d636add2a79b5` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
